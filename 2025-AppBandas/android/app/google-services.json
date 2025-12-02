@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196026462572",
+    "project_id": "hola-tp-firebase",
+    "storage_bucket": "hola-tp-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196026462572:android:ce1a019a083bdd15cec349",
+        "android_client_info": {
+          "package_name": "com.example.loginhome1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbl9Q9JlEE5qIpZHxbwVADGe2eLxvI85I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

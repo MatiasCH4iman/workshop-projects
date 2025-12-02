@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/footprint.pretty")(options "")(descr ""))
+  (lib (name "XT60-M")(type "KiCad")(uri "${KIPRJMOD}/Libs/XT60-M")(options "")(descr ""))
+  (lib (name "Images")(type "KiCad")(uri "${KIPRJMOD}/Libs/Images")(options "")(descr ""))
+  (lib (name "DOIT_ESP32")(type "KiCad")(uri "${KIPRJMOD}/Libs/kicad_esp32_doit/DOIT_ESP32.pretty")(options "")(descr ""))
+  (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/Libs/LM2596_step_down_converter/LM2596.pretty")(options "")(descr ""))
+)
