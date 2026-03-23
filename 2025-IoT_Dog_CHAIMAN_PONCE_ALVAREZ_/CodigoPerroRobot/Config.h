@@ -52,9 +52,9 @@ Grupo: 9
 #define MQTT_DEVICE_ID 29 // Group 5B -> 29
 
 // Telegram
-#define TELEGRAM_BOT_TOKEN "8488803162:AAEuwBxhIMxLEEbiUOoIrTwfNidTyJszk9k"
+#define TELEGRAM_BOT_TOKEN ""
 // Chat ID will be discovered or set manually
-#define TELEGRAM_CHAT_ID "7692130234" 
+#define TELEGRAM_CHAT_ID "" 
 
 
 // Time
