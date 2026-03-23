@@ -42,12 +42,12 @@ Grupo: 9
 // ==========================================
 
 // WiFi & MQTT
-#define WIFI_SSID_DEFAULT "Fibertel2025"
-#define WIFI_PASS_DEFAULT "Diciembre2026$"
+#define WIFI_SSID_DEFAULT "Wifi"
+#define WIFI_PASS_DEFAULT "Password"
 #define MQTT_HOST IPAddress(192, 168, 5, 123)
 #define MQTT_PORT 1884
 #define MQTT_USER "esp32"
-#define MQTT_PASS "mirko15"
+#define MQTT_PASS "HelloWorld"
 #define MQTT_PUB_TOPIC "/esp32/datos_sensores"
 #define MQTT_DEVICE_ID 29 // Group 5B -> 29
 
