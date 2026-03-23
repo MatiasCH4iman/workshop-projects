@@ -12,13 +12,13 @@
 
 
   // Ajustes WiFi
-  const char* ssid = "MECA-IoT";
-  const char* password = "IoT$2025";
+  const char* ssid = "wifi";
+  const char* password = "password";
   // Ajustes Firebase
-  #define Web_API_KEY "AIzaSyCPYRbjzr7HpWhPJfsLvDVi8s7kbNoINA0"
-  #define DATABASE_URL "https://st-firebase-5a09c-default-rtdb.firebaseio.com/"
-  #define USER_EMAIL "48115713@est.ort.edu.ar"
-  #define USER_PASS "chaiFirebase"
+  #define Web_API_KEY "webapikey"
+  #define DATABASE_URL "databaseurl"
+  #define USER_EMAIL "email"
+  #define USER_PASS "pass"
 
   // Objetos Firebase_ESP_Client
   FirebaseData fbdo; //maneja conexiones
